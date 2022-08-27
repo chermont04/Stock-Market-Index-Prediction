@@ -1,0 +1,4 @@
+% Max number of characters in all strings, including all error messages,
+% help texts, font names, control sequences.  These values apply to TeX.
+
+pool_size = 6250000
